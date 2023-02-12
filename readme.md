@@ -8,3 +8,6 @@ Fetch API \
 REST API \
 Async/Await \
 JSON Data Manipulation
+
+### Resources
+[Google Books API](https://developers.google.com/books)
